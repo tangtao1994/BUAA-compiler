@@ -1,0 +1,9 @@
+name:a	 type:1	 kind:1	 level:0	 address:0
+name:b	 type:1	 kind:1	 level:0	 address:0
+name:arr	 type:1	 kind:0	 level:0	 address:4
+name:g	 type:1	 kind:0	 level:0	 address:7
+name:m	 type:1	 kind:0	 level:0	 address:8
+name:ppp	 type:1	 kind:2	 level:0	 address:1
+name:a	 type:1	 kind:4	 level:-1	 address:4
+name:b	 type:2	 kind:4	 level:-1	 address:5
+name:i	 type:1	 kind:0	 level:-1	 address:6
